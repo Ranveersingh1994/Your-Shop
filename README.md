@@ -15,3 +15,6 @@ Cost="Rs.2000 per unit"
 <Discount
 Title="Top Level Saree"
 Upto="20% Per unit"
+<Discount 2
+Title="Middle Level Saree and Lower level saree"
+Upto="10% Per unit"
