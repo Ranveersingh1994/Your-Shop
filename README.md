@@ -8,3 +8,7 @@ Cost="Rs.5000 per unit"
 Title="Middle Level Saree"
 Validity="21 August to 25 August"
 Cost="Rs.3000 per unit"
+<Saree Sale
+Title="Top Level Saree"
+Validity="26 August to 30 August"
+Cost="Rs.2000 per unit"
