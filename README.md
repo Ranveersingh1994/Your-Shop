@@ -12,3 +12,6 @@ Cost="Rs.3000 per unit"
 Title="Top Level Saree"
 Validity="26 August to 30 August"
 Cost="Rs.2000 per unit"
+<Discount
+Title="Top Level Saree"
+Upto="20% Per unit"
